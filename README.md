@@ -1,0 +1,1 @@
+Rest countries and weather using fetch API
